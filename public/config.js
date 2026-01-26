@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "fabricperps",
   "VITE_ORDERLY_BROKER_NAME": "Fabric Perps",
   "VITE_BROKER_EOA_ADDRESS": "0x5d5b70f6ac09ba7fd199d284b1903c5c5fab135f",
   "VITE_DISABLE_MAINNET": "false",
@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Fabric Perps",
   "VITE_SEO_SITE_DESCRIPTION": "A powerful decentralized exchange -- with up to 100x leverage",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/fabric-perps-9124/",
+  "VITE_SEO_SITE_URL": "https://perps.fabricperps.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
